@@ -36,7 +36,7 @@ git clone https://github.com/GonnaBeCoder/AI-Webscrapper.git
 
 cd AI-Webscrapper
 
-# run this command to install required dependencies 
+# Run this command to install required dependencies 
 -> pip install -r requirements.txt
 
 # Install and run Ollama
